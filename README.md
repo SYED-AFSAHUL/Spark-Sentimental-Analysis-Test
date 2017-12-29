@@ -14,6 +14,7 @@ You will need R Studio and R installed to run the R code. To install R studio re
 
 
 > checktrain.txt is the training dataset.
+
 > checktest.txt is the testing dataset.
 
 ### Prerequisites
