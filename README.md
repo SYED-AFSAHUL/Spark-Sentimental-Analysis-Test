@@ -13,8 +13,8 @@ You will need R Studio and R installed to run the R code. To install R studio re
 > finalnb.r is the R code for Naive Bayes Classification.
 
 
-> checktrain.txt is the training dataset.< /br>
-> checktest.txt is the testing dataset.< /br>
+> checktrain.txt is the training dataset.
+> checktest.txt is the testing dataset.
 
 ### Prerequisites
 
