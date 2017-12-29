@@ -9,9 +9,7 @@ You will need R Studio and R installed to run the R code. To install R studio re
 
 > checknb.scala is the Scala code for Naive Bayes Classification.
 
-
 > finalnb.r is the R code for Naive Bayes Classification.
-
 
 > checktrain.txt is the training dataset.
 
