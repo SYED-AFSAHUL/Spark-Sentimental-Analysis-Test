@@ -43,6 +43,6 @@ Run the above three lines on R-Studio console.
 
 ## Authors
 
-* **SYED AFSAHUL HAQUE** - *Initial work* - [afsahulsyed](https://github.com/SYED-AFSAHUL).
+* **SYED AFSAHUL HAQUE** - [afsahulsyed](https://github.com/SYED-AFSAHUL).
 
-* **SUMIT KALRA.**
+* **SUMIT KALRA.** - *Guidance* - [Lemon](https://github.com/siriussky)
