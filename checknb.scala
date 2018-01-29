@@ -121,15 +121,14 @@ val tpos = tpos1.map(line=>line.replaceAll("__label__2 ",""))
 val tneg = tneg1.map(line=>line.replaceAll("__label__1 ",""))
 val q=0
 tpos.collect().foreach{i => 
-						print(i); 
-						print("****************************************")
-						//i.collect().foreach{j=>
-							///print(j)
-						//}
-						val terms = i.split(" ")
-						terms.foreach{j =>
-										val present = joined_df7.filter(j)
-										present.replaceAll("dcc","")
-										
-									 }
-					  }
+	print(i); 
+	print("****************************************")
+	//i.collect().foreach{j=>
+	///print(j)
+	//}
+	val terms = i.split(" ")
+	terms.foreach{j =>
+		val present = joined_df7.filter(j)
+		present.replaceAll("dcc","")			
+	}
+}
