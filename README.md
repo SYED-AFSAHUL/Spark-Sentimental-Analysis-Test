@@ -1,6 +1,6 @@
 # Exploring key features of Apache Spark using Sentimental Analysis (Naive Bayes Classification)
 
-Apache Spark is an open-source cluster-computing framework. It is much better than the othor options available at present.This is aattempt to test Apache Spark's key features with other setups. The features of Apache Spark that we are interested in are In-memory data abstraction, Partial DAG, Lineage base fault recovery, Data co-partition, Unification of Streaming, Batch and Interactive Processing and Hybrid Storage Architecture.
+Apache Spark is an open-source cluster-computing framework. It is much better than the other options available at present.This is an attempt to test Apache Spark's key features with other setups. The features of Apache Spark that we are interested in are In-memory data abstraction, Partial DAG, Lineage base fault recovery, Data co-partition, Unification of Streaming, Batch and Interactive Processing and Hybrid Storage Architecture.
 
 ## Getting Started
 
